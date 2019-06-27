@@ -184,3 +184,20 @@ class CollapsingList extends StatelessWidget {
     );
   }
 }
+
+
+class Sample extends StatefulWidget {
+@override
+  State<StatefulWidget> createState() {
+    // TODO: implement createState
+    return _SampleState();
+  }
+}
+
+class _SampleState extends State<Sample> {
+@override
+  Widget build(BuildContext context) {
+    // TODO: implement build
+    return null;
+  }
+}
